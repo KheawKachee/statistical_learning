@@ -1,0 +1,15 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.defaultPackageManager": "ms-python.python:pip",
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.inlayHints.padding": false,
+    "python.analysis.inlayHints.callArgumentNames": "all",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.pytestParameters": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "rainbow_csv.virtual_alignment_mode": "always",
+    "pythonIndent.keepHangingBracketOnLine": true,
+    "pythonIndent.trimLinesWithOnlyWhitespace": true,
+    "pythonIndent.useTabOnHangingIndent": true,
+    "editor.autoIndentOnPaste": true
+}
